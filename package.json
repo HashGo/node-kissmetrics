@@ -5,7 +5,7 @@
 
 , "keywords": ["kissmetrics", "kiss", "metrics","analytics", "REST", "API"]
 
-, "version": "0.0.5"
+, "version": "0.0.6"
 
 , "homepage": "http://wavo.me"
 
@@ -23,7 +23,7 @@
   }
   
 , "dependencies": {
-    "async"   : ">= 0.1.10"
+    "async"   : ">= 0.1.22"
   , "request" : ">= 2.1.1"
   }
   
